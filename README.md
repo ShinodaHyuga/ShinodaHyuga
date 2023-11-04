@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ShinodaHyuga&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ShinodaHyuga/)
-
+<!-- リポジトリステータスとソースコード統計 -->
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ShinodaHyuga&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ShinodaHyuga/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinodaHyuga&layout=compact&theme=tokyonight)](https://github.com/ShinodaHyuga/)
 
 <!--

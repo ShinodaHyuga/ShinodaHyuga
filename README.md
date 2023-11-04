@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!-- リポジトリステータスとソースコード統計 -->
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ShinodaHyuga&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ShinodaHyuga/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinodaHyuga&layout=compact&theme=tokyonight)](https://github.com/ShinodaHyuga/)
-
 <!--
 **ShinodaHyuga/ShinodaHyuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🙌 status
+
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ShinodaHyuga&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ShinodaHyuga/)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinodaHyuga)

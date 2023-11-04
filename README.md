@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=HyugaShinoda&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/HyugaShinoda/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ShinodaHyuga&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ShinodaHyuga/)
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyugaShinoda&layout=compact&theme=tokyonight)](https://github.com/HyugaShinoda/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinodaHyuga&layout=compact&theme=tokyonight)](https://github.com/ShinodaHyuga/)
 
 <!--
 **ShinodaHyuga/ShinodaHyuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

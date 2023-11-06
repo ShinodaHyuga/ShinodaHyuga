@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 #### 🙌 status
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hoge&hide=contribs&layout==true&show_icons=true&theme=tokyonight)](https://github.com/ShinodaHyuga/)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ShinodaHyuga&hide=contribs&layout==true&show_icons=true&theme=tokyonight)](https://github.com/ShinodaHyuga/)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinodaHyuga&theme=tokyonight)
